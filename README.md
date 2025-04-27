@@ -2,4 +2,4 @@
 虽然在线观看视频非常方便，但许多人仍然希望下载并保存视频以供离线观看，尤其是深夜爱情动作片。比思av有大量国产片。推荐一款使用多线程技术加快缓存速度的浏览器插件，让您可以快速在电脑上下载喜爱的视频
 FetchV 视频下载扩展
 FetchV 是一款专业通用的浏览器视频下载扩展程序。它兼容 Chrome、Edge 和其他基于 Chromium 的浏览器。使用 FetchV，您可以下载各种类型的在线视频，包括 HLS 流媒体视频 (m3u8)、mp4、webm、flv等,
-FetchV网址： https://fetchv.net/  比思AV网址：https//61bs.com
+FetchV网址： https://fetchv.net/  比思AV网址：https://61bs.com
